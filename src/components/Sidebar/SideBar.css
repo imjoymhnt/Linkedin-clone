@@ -6,6 +6,7 @@
   text-align: center;
   height: fit-content;
   /* margin-left: 0; */
+  width: 30rem;
 }
 
 .sidebar__avatar {
